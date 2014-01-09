@@ -1,0 +1,1 @@
+<?php $this->beginContent('//layouts/main'); ?><?php //$this->widget('widgets.default.WCategoryMenu', array('htmlOptions' => array('class' => 'grid_6 alpha'))); ?><div class="grid_25 omega">    <div id="content">        <?php echo $content; ?>    </div><!-- content --></div><?php $this->endContent(); ?>
